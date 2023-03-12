@@ -1,5 +1,5 @@
 # nomeRefatorado
-Não consegui printar na lateral
+Não consegui printar na lateral apenas verticalmente
 
 ------------------------------------------------------
 Código não refatorado
